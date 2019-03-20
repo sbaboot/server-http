@@ -1,0 +1,19 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "server http",
+  "main": "Node.js",
+  "scripts": {
+    "start" : "node Node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sbaboot/server-http.git"
+  },
+  "author": "sbaboot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbaboot/server-http/issues"
+  },
+  "homepage": "https://github.com/sbaboot/server-http#readme"
+}
